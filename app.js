@@ -120,7 +120,7 @@ function runProgramLogic() {
     //console.log(media.get(1));
 }
 
-photos.dbInit();
+//photos.dbInit();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
